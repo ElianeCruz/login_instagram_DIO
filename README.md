@@ -1,5 +1,5 @@
-Entrega projeto CSS-Flexbox para DIO
-<h1 align="center">Reconstrução da página de login do instagram<h1>
+
+<h1 align="center">Reconstrução da página de login do Instagram<h1>
 
  ## Repositório criado para a entrega do projeto CSS-Flexbox
   ## DIO - Santander Bootcamp Fullstack Developer 
